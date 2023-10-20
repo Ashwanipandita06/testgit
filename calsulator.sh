@@ -6,12 +6,10 @@ abc def ghi jkl
 a+b+c+d+e+f+g+h+i+j+k+l
 
 
+Addition code  done
 
-abcdefghi
+Subtraction code shall begin from here --
 
+a-b
+b-a
 
-jklmnopqr
-
-
-
-stu
